@@ -1,0 +1,77 @@
+Printf()
+%d: for printing integers
+%f: for printing floating-point numbers
+%c: for printing characters
+%s: for printing strings
+%p: for printing memory addresses
+%x: for printing hexadecimal values
+
+byte = has 8 bits
+char: 1 byte
+int: 4 bytes
+short: 2 bytes
+long: 8 bytes 
+
+how many bytes of memory does int i[4]; take up? 4*4=16
+
+long g[5]; if &g[0] = 0x100, what is &g[1]? 
+0x108 (needs to be sorted in a multiple of 8)
+
+
+How do we know the value of a number?
+105624
+
+what does the 5 mean?
+
+How about the 0? 
+
+4 + 20 + 600 + 5000 + 00000 + 100000 = 105624
+
+Base 2 (binary)
+Base 16 (hexadecimal )
+
+place0 = 1
+place 1 = 2
+place3 = 4
+place4 = 8
+place5 = 16
+place6 = 32
+place7 = 128
+place8 = 256
+
+ex:
+0110101 = 53
+
+
+hexadecimal place value 
+
+A = 10, 
+B = 11, 
+C = 12,
+D=13, 
+E = 14, 
+F = 15
+
+• Place 0 – 1
+• Place 1 – 16
+• Place 2 – 256
+• Place 3 – 4096
+• Place 4 – 65,536
+
+What is the value of?
+12
+• (16 x 1) + 2 = 18
+3a1
+• (256 x 3) + (16 x 10) + 1 = 929
+bf
+• (16 x 11) + 15 = 191
+• c57
+• (256 x 12) + (16 x 5) + 7 = 3159
+7 6 5 4 3 2 1 0
+
+
+
+Converting from Binary to hexadecimal
+
+0100|1011|1011|0101|0010
+
