@@ -1,0 +1,12 @@
+(For all symbol) days is an element of sunny
+if a day is sunny it is not rainy
+
+for all x ((D(x) & S(x)) -> negation ofR(X))
+
+there exist an x that V(x) and (for all y that is a fruit)F(y)->S(x,y)
+
+
+
+use alegebra to show the equivalence is valid
+    
+not (exists x) (A(x) and (B(x) or C(x))) <=> all x (A(x) -> (not B(x) and not C(x)))
